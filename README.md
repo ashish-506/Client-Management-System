@@ -77,3 +77,6 @@ Create a new Pull Request.
 ## Acknowledgments
 Inspired by modern web development practices.
 Special thanks to the open-source community for the tools and libraries used.
+
+## Contact
+For any questions or feedback, please contact ashish04aks@gmail.com
